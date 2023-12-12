@@ -1,0 +1,22 @@
+[13:06:35.499] 12 test iterations per epoch
+[13:11:00.196] idx 0 case case0008 mean_dice 0.657204 mean_hd95 32.915492 mean_iou 0.552719 mean_sensitivity 0.663614 mean_specificity 0.999603 mean_asd 9.100065 mean_precision 0.669569
+[13:13:33.276] idx 1 case case0022 mean_dice 0.899849 mean_hd95 2.577300 mean_iou 0.822729 mean_sensitivity 0.924841 mean_specificity 0.999597 mean_asd 0.901094 mean_precision 0.880701
+[13:16:29.630] idx 2 case case0038 mean_dice 0.727514 mean_hd95 51.724154 mean_iou 0.606172 mean_sensitivity 0.733991 mean_specificity 0.998934 mean_asd 17.831552 mean_precision 0.751554
+[13:22:23.021] idx 3 case case0036 mean_dice 0.825939 mean_hd95 9.178043 mean_iou 0.731578 mean_sensitivity 0.852280 mean_specificity 0.999423 mean_asd 3.080715 mean_precision 0.818793
+[13:26:46.181] idx 4 case case0032 mean_dice 0.800644 mean_hd95 31.812043 mean_iou 0.679627 mean_sensitivity 0.832073 mean_specificity 0.999189 mean_asd 8.541585 mean_precision 0.790966
+[13:30:50.084] idx 5 case case0002 mean_dice 0.858992 mean_hd95 5.513707 mean_iou 0.767041 mean_sensitivity 0.888475 mean_specificity 0.999581 mean_asd 3.730873 mean_precision 0.833508
+[13:33:42.497] idx 6 case case0029 mean_dice 0.710517 mean_hd95 40.353917 mean_iou 0.597306 mean_sensitivity 0.674537 mean_specificity 0.999604 mean_asd 10.914992 mean_precision 0.800630
+[13:39:55.385] idx 7 case case0003 mean_dice 0.571228 mean_hd95 115.669567 mean_iou 0.417522 mean_sensitivity 0.625539 mean_specificity 0.998268 mean_asd 33.787850 mean_precision 0.617900
+[13:44:21.188] idx 8 case case0001 mean_dice 0.745390 mean_hd95 35.289984 mean_iou 0.630950 mean_sensitivity 0.744404 mean_specificity 0.999344 mean_asd 8.205646 mean_precision 0.789278
+[13:48:30.207] idx 9 case case0004 mean_dice 0.788597 mean_hd95 9.817685 mean_iou 0.686464 mean_sensitivity 0.773418 mean_specificity 0.999570 mean_asd 2.421829 mean_precision 0.821327
+[13:50:58.031] idx 10 case case0025 mean_dice 0.814275 mean_hd95 29.963961 mean_iou 0.700067 mean_sensitivity 0.790252 mean_specificity 0.999470 mean_asd 8.360813 mean_precision 0.865386
+[13:53:20.400] idx 11 case case0035 mean_dice 0.866471 mean_hd95 33.218316 mean_iou 0.648111 mean_sensitivity 0.750800 mean_specificity 0.874664 mean_asd 7.064619 mean_precision 0.739274
+[13:53:20.413] Mean class 1 mean_dice 0.870692 mean_hd95 12.678579 mean_iou 0.773715 mean_sensitivity 0.889651 mean_specificity 0.999837 mean_asd 2.804782 mean_precision 0.855861
+[13:53:20.413] Mean class 2 mean_dice 0.598651 mean_hd95 26.213658 mean_iou 0.392473 mean_sensitivity 0.540201 mean_specificity 0.916578 mean_asd 6.909694 mean_precision 0.551734
+[13:53:20.413] Mean class 3 mean_dice 0.817709 mean_hd95 81.530801 mean_iou 0.713523 mean_sensitivity 0.888581 mean_specificity 0.999489 mean_asd 25.601685 mean_precision 0.766922
+[13:53:20.413] Mean class 4 mean_dice 0.755210 mean_hd95 33.298252 mean_iou 0.655657 mean_sensitivity 0.707589 mean_specificity 0.999786 mean_asd 8.802885 mean_precision 0.839324
+[13:53:20.413] Mean class 5 mean_dice 0.927895 mean_hd95 35.657582 mean_iou 0.869322 mean_sensitivity 0.951488 mean_specificity 0.997799 mean_asd 10.615305 mean_precision 0.909555
+[13:53:20.414] Mean class 6 mean_dice 0.604067 mean_hd95 12.680915 mean_iou 0.441580 mean_sensitivity 0.570600 mean_specificity 0.999695 mean_asd 2.956670 mean_precision 0.688144
+[13:53:20.414] Mean class 7 mean_dice 0.864303 mean_hd95 42.670193 mean_iou 0.779620 mean_sensitivity 0.900936 mean_specificity 0.999384 mean_asd 10.906979 mean_precision 0.857513
+[13:53:20.414] Mean class 8 mean_dice 0.739220 mean_hd95 20.626131 mean_iou 0.600965 mean_sensitivity 0.720436 mean_specificity 0.998931 mean_asd 7.363089 mean_precision 0.783537
+[13:53:20.414] Testing performance in best val model: mean_dice : 0.772218 mean_hd95 : 33.169514 mean_iou : 0.653357 mean_sensitivity : 0.771185 mean_specificity : 0.988937 mean_asd : 9.495136 mean_precision : 0.781574
